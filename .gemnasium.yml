@@ -1,0 +1,5 @@
+dependency_files:
+  -
+    path: nested/Gemfile
+  -
+    path: nested/Gemfile.lock
